@@ -1,6 +1,6 @@
 ﻿namespace F012Beta
 {
-    partial class FormF012
+    partial class Clock
     {
         /// <summary>
         /// Required designer variable.

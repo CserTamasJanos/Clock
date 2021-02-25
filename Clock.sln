@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F012Beta", "F012Beta\F012Beta.csproj", "{6165A19D-61B2-4801-809B-7E64185FC165}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clock", "F012Beta\Clock.csproj", "{6165A19D-61B2-4801-809B-7E64185FC165}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C57BC44F-16C7-472E-8F8A-E86ECAE3AE41}
 	EndGlobalSection
 EndGlobal

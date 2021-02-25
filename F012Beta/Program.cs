@@ -16,7 +16,7 @@ namespace F012Beta
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormF012());
+            Application.Run(new Clock());
         }
     }
 }

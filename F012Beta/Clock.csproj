@@ -48,17 +48,17 @@
   <ItemGroup>
     <Compile Include="ClockParts.cs" />
     <Compile Include="FlasherInterface.cs" />
-    <Compile Include="FormF012.cs">
+    <Compile Include="Clock.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormF012.Designer.cs">
-      <DependentUpon>FormF012.cs</DependentUpon>
+    <Compile Include="Clock.Designer.cs">
+      <DependentUpon>Clock.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ClockData.cs" />
-    <EmbeddedResource Include="FormF012.resx">
-      <DependentUpon>FormF012.cs</DependentUpon>
+    <EmbeddedResource Include="Clock.resx">
+      <DependentUpon>Clock.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

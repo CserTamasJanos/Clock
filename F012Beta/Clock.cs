@@ -10,11 +10,11 @@ using System.Windows.Forms;
 
 namespace F012Beta
 {
-   public partial class FormF012 : Form
+   public partial class Clock : Form
     {
         private SenderFlashStatus aConcreteButton;
 
-        public FormF012()
+        public Clock()
         {
             InitializeComponent();
         }
@@ -31,7 +31,6 @@ namespace F012Beta
 
             analogClockObserver.TimerTickEvent += DrawClockPlease;
             digitalClockObserver.TimerTickEvent += DrawDigitalClock;
-
         }
 
         private void DrawClockPlease(Bitmap analogClockBitmap)
