@@ -34,11 +34,6 @@ namespace F012Beta
 
         }
 
-        private void DrawRectangle(Bitmap rectangleBitmap)
-        {
-            pictureBoxRectangleSomething.Image = rectangleBitmap;
-        }
-
         private void DrawClockPlease(Bitmap analogClockBitmap)
         {
             pictureBoxAnalogClock.Image = analogClockBitmap;
