@@ -33,10 +33,8 @@
             this.pictureBoxDigitalClock = new System.Windows.Forms.PictureBox();
             this.labelTest = new System.Windows.Forms.Label();
             this.buttonCancel = new System.Windows.Forms.Button();
-            this.pictureBoxRectangleSomething = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxAnalogClock)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxDigitalClock)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxRectangleSomething)).BeginInit();
             this.SuspendLayout();
             // 
             // pictureBoxAnalogClock
@@ -53,7 +51,7 @@
             this.buttonFlash.Name = "buttonFlash";
             this.buttonFlash.Size = new System.Drawing.Size(75, 23);
             this.buttonFlash.TabIndex = 2;
-            this.buttonFlash.Text = "Risztás";
+            this.buttonFlash.Text = "Alarm";
             this.buttonFlash.UseVisualStyleBackColor = true;
             this.buttonFlash.Click += new System.EventHandler(this.buttonFlash_Click);
             // 
@@ -79,24 +77,15 @@
             this.buttonCancel.Name = "buttonCancel";
             this.buttonCancel.Size = new System.Drawing.Size(75, 23);
             this.buttonCancel.TabIndex = 5;
-            this.buttonCancel.Text = "Kilépés";
+            this.buttonCancel.Text = "Cancel";
             this.buttonCancel.UseVisualStyleBackColor = true;
             this.buttonCancel.Click += new System.EventHandler(this.buttonCancel_Click);
-            // 
-            // pictureBoxRectangleSomething
-            // 
-            this.pictureBoxRectangleSomething.Location = new System.Drawing.Point(10, 10);
-            this.pictureBoxRectangleSomething.Name = "pictureBoxRectangleSomething";
-            this.pictureBoxRectangleSomething.Size = new System.Drawing.Size(100, 100);
-            this.pictureBoxRectangleSomething.TabIndex = 6;
-            this.pictureBoxRectangleSomething.TabStop = false;
             // 
             // FormF012
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(484, 352);
-            this.Controls.Add(this.pictureBoxRectangleSomething);
             this.Controls.Add(this.buttonCancel);
             this.Controls.Add(this.labelTest);
             this.Controls.Add(this.pictureBoxDigitalClock);
@@ -109,7 +98,6 @@
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxAnalogClock)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxDigitalClock)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxRectangleSomething)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -122,7 +110,6 @@
         private System.Windows.Forms.PictureBox pictureBoxDigitalClock;
         private System.Windows.Forms.Label labelTest;
         private System.Windows.Forms.Button buttonCancel;
-        private System.Windows.Forms.PictureBox pictureBoxRectangleSomething;
     }
 }
 

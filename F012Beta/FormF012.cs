@@ -24,19 +24,14 @@ namespace F012Beta
             AnalogClock analogClockObserver = new AnalogClock();
             DigitalClock digitalClockObserver = new DigitalClock();
 
-            SomethingToBeFlashed aRectangleSomething = new SomethingToBeFlashed();
-
             aConcreteButton = new SenderFlashStatus();
 
             aConcreteButton.AttachAClock(analogClockObserver);
             aConcreteButton.AttachAClock(digitalClockObserver);
-            aConcreteButton.AttachAClock(aRectangleSomething);
 
             analogClockObserver.TimerTickEvent += DrawClockPlease;
             digitalClockObserver.TimerTickEvent += DrawDigitalClock;
-            aRectangleSomething.InnerTimerIsOnEvent += DrawRectangle;
 
-            pictureBoxRectangleSomething.Image = aRectangleSomething.RectangleBitmap;
         }
 
         private void DrawRectangle(Bitmap rectangleBitmap)

@@ -17,3 +17,13 @@ C:\VisualStudioProjects\F012Beta\F012Beta\obj\Debug\F012Beta.csproj.GenerateReso
 C:\VisualStudioProjects\F012Beta\F012Beta\obj\Debug\F012Beta.csproj.CoreCompileInputs.cache
 C:\VisualStudioProjects\F012Beta\F012Beta\obj\Debug\F012Beta.exe
 C:\VisualStudioProjects\F012Beta\F012Beta\obj\Debug\F012Beta.pdb
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Clock\F012Beta\bin\Debug\F012Beta.exe.config
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Clock\F012Beta\bin\Debug\F012Beta.exe
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Clock\F012Beta\bin\Debug\F012Beta.pdb
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Clock\F012Beta\obj\Debug\F012Beta.csprojAssemblyReference.cache
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Clock\F012Beta\obj\Debug\F012Beta.FormF012.resources
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Clock\F012Beta\obj\Debug\F012Beta.Properties.Resources.resources
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Clock\F012Beta\obj\Debug\F012Beta.csproj.GenerateResource.cache
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Clock\F012Beta\obj\Debug\F012Beta.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Clock\F012Beta\obj\Debug\F012Beta.exe
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Clock\F012Beta\obj\Debug\F012Beta.pdb
