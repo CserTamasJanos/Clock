@@ -1,0 +1,10 @@
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Clock\F012Beta\bin\Debug\F012Beta.exe.config
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Clock\F012Beta\bin\Debug\F012Beta.exe
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Clock\F012Beta\bin\Debug\F012Beta.pdb
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Clock\F012Beta\obj\Debug\Clock.csprojAssemblyReference.cache
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Clock\F012Beta\obj\Debug\F012Beta.Clock.resources
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Clock\F012Beta\obj\Debug\F012Beta.Properties.Resources.resources
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Clock\F012Beta\obj\Debug\Clock.csproj.GenerateResource.cache
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Clock\F012Beta\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Clock\F012Beta\obj\Debug\F012Beta.exe
+C:\Users\Tomi\Desktop\GitHubRepositories\C#\Clock\F012Beta\obj\Debug\F012Beta.pdb

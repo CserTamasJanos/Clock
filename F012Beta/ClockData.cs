@@ -82,14 +82,4 @@ namespace F012Beta
         #endregion
     }
 
-    public class RectangleData
-    {
-        public const int RectangleWidth = 100;
-        public const int RectangleHeight = 100;
-
-        public const int RectangelX = 0;
-        public const int RectangleY = 0;
-
-        public static readonly Color RectangleBasicColor = Color.Blue;
-    }
 }
